@@ -16,7 +16,7 @@
 * [Booking Summary]()
 * [Customer Cancellation]()
 * [Rescheduling]()
-* [Booking History]()
+* [My Bookings]()
 - - - -
 * # Partners
 * [Touchless Tickets]()
@@ -46,6 +46,7 @@
 * # Customer Payments
 * [Payment Service Providers]()
 * [Stored Credit Cards]()
+* [Payment with Gift Codes]()
 * # Payment-Altering Events
 * [Customer Cancellation]()
 * [CS Cancellation]()
@@ -58,6 +59,13 @@
 - - - -
 - * [Invoices]()
 - - - -
-- 
+- * # Gift Codes
+- * [Gifting]()
+- * [Gift Code PDF]()
+- * [Gift Code Creation & Incentives]
+
+[Accounting]()
+
+
 
 
