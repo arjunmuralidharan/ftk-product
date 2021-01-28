@@ -49,7 +49,7 @@
 * # Payment-Altering Events
 * [Customer Cancellation]()
 * [CS Cancellation]()
-* [Modifications & Reductions]
+* [Modifications & Reductions]()
 - - - -
 * # Supplier and Partner Payments
 * [Payout Providers]()
