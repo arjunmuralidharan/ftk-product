@@ -57,7 +57,7 @@
 * [Supplier Cancellation & Fees]()
 * [Payment Cycles]()
 - - - -
-- * [Invoices]()
+* [Invoices]()
 - - - -
 * # Gift Codes
 * [Gifting]()
