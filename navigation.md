@@ -59,10 +59,10 @@
 - - - -
 - * [Invoices]()
 - - - -
-- * # Gift Codes
-- * [Gifting]()
-- * [Gift Code PDF]()
-- * [Gift Code Creation & Incentives]
+* # Gift Codes
+* [Gifting]()
+* [Gift Code PDF]()
+* [Gift Code Creation & Incentives]
 
 [Accounting]()
 
