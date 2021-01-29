@@ -6,7 +6,7 @@
 
 * # Checkout Funnel
 * [Cancellation Policy]()
-* [Shopping Cart](shopping-cart.md)
+* [Shopping Cart](docs/shopping-cart.md)
 * [Add-to-cart-from-cart]()
 * [Add-ons & Donations]()
 * [Customer Information]()
